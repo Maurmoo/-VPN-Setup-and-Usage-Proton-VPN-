@@ -130,11 +130,13 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 </p>
 <p>
   
-- After connecting to the VPN, browsed the following websites inside the VM:
+- With the VPN connection active, browse the following websites inside the Azure VM:
   - [Google](https://www.google.com)
   - [Amazon](https://www.amazon.com)
   - [Disney](https://www.disney.com)
-- Observed changes in website content based on VPN server location (e.g., different language, region-specific content).
+- Observe any changes in website content based on the VPN location. For example:
+   - Language preferences might change.
+   - Region-specific content or offers might be displayed (e.g., products available only in certain countries).
 
 </p>
 <br />
