@@ -106,7 +106,8 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 
 <p>
   
-![image](https://github.com/user-attachments/assets/74399cb0-a9b0-4b26-a79c-45ec5631d751)
+![image](https://github.com/user-attachments/assets/fdbd53af-2b04-4f4a-9577-5fbb9ceae7db)
+
 
 
 </p>
