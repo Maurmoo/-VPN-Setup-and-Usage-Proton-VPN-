@@ -37,7 +37,8 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
   
 ## Step 1: Create and Configure the Azure VM
 
-![image](https://github.com/user-attachments/assets/yourimage1.png)
+![image](https://github.com/user-attachments/assets/78fc714f-04f0-4719-b30e-36d03bc0f177)
+
 
 </p>
 <p>
