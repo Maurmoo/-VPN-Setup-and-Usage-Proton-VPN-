@@ -37,7 +37,8 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
   
 ## Step 1: Create and Configure the Azure VM
 
-![image](https://github.com/user-attachments/assets/78fc714f-04f0-4719-b30e-36d03bc0f177)
+![image](https://github.com/user-attachments/assets/40726f37-8bba-4a42-94f8-78949e41791a)
+
 
 
 </p>
@@ -48,7 +49,7 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
   - vCPUs: **2**
   - Username: **LabUser**
   - Password: **Password1234**
-  - Logged into the VM using Remote Desktop. IP address: **20.106.188.26**
+  - Logged into the VM using Remote Desktop. Public IP address
 
 </p>
 <br />
