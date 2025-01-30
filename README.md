@@ -6,7 +6,7 @@
 
 
 <h1>Azure VM Creation and VPN Testing Lab</h1>
-This tutorial walks you through creating a virtual machine (VM) in Azure, connecting to it, setting up a VPN, and testing the IP address and browsing behavior. <br />
+This tutorial will guide you through creating a Virtual Machine (VM) in Microsoft Azure, connecting to it using Remote Desktop, setting up ProtonVPN, and testing how VPN usage affects your IP address and browsing behavior. <br />
 
 <h2>Environments and Technologies Used</h2>
 
