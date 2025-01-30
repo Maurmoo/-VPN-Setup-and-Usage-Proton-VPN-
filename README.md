@@ -1,5 +1,7 @@
 <p align="center">
-![image](https://github.com/user-attachments/assets/d2f66fc6-3fed-4536-87a6-b8406ad7d830)</p>
+  <img src="https://github.com/user-attachments/assets/d2f66fc6-3fed-4536-87a6-b8406ad7d830" alt="image" />
+</p>
+
 
 <h1>Azure VM Creation and VPN Testing Lab</h1>
 This tutorial walks you through creating a virtual machine (VM) in Azure, connecting to it, setting up a VPN, and testing the IP address and browsing behavior. <br />
