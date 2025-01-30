@@ -89,7 +89,7 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 <p>
   
 - Downloaded and installed the ProtonVPN client inside the Azure VM.
-- Logged into ProtonVPN using the credentials from Step 5.
+- Logged into ProtonVPN using the credentials from Step 3.
 
 </p>
 <br />
