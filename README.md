@@ -52,6 +52,7 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 <br />
 
 ## Step 2: Record IP Address from the Azure VM
+![image](https://github.com/user-attachments/assets/eeeca165-534c-422e-9e58-47c6a21e28a0)
 
 <p>
   
