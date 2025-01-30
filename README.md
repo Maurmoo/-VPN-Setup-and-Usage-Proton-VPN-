@@ -111,8 +111,10 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 </p>
 <p>
   
-- After connecting to a VPN server located in a different country (e.g., Japan), visited [What is My IP Address](https://whatismyipaddress.com/) again.
-- Recorded the new IP address associated with the VPN server.
+- Connect to a VPN server located in a different country (e.g., Japan).
+- Once connected, [What is My IP Address](https://whatismyipaddress.com/) again to observe the new IP address.
+- Record the new IP address assigned by ProtonVPN. 
+
 
 </p>
 <br />
