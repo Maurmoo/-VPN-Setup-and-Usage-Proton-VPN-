@@ -41,9 +41,9 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 </p>
 <p>
   
-- 1.  Log in to the Microsoft Azure Portal.
-- 2. Navigate to Virtual Machines and click Create to set up a new VM.
-- 3. Select the following configurations for your VM:
+-  Log in to the Microsoft Azure Portal.
+- Navigate to Virtual Machines and click Create to set up a new VM.
+- Select the following configurations for your VM:
   - Name: **AzureVM**
   - vCPUs: **2**
   - Username: **LabUser**
