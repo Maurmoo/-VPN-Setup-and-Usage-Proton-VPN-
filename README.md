@@ -49,7 +49,8 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
   - Username: **LabUser**
   - Password: **Password1234**
   - Logged into the VM using Remote Desktop. Public IP address
-
+- After creation, click on the VM and locate its Public IP Address.
+- Use Remote Desktop to connect to the VM
 </p>
 <br />
 
