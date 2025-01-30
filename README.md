@@ -60,7 +60,8 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 <p>
   
 - Logged into the Azure VM using Remote Desktop.
-- Opened a browser inside the VM and visited [What is My IP Address](https://whatismyipaddress.com/).
+- Opened a browser inside the VM and visited
+     - [What is My IP Address](https://whatismyipaddress.com/).
 - Recorded the IP address associated with the VM.
 
 </p>
