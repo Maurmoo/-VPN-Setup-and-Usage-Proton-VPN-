@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d2f66fc6-3fed-4536-87a6-b8406ad7d830" alt="image" />
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf7db6b2-6e72-41ac-aab4-d1d0074b20cf" alt="image" />
+</p>
+
 
 
 <h1>Azure VM Creation and VPN Testing Lab</h1>
