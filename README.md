@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="Azure logo"/>
+  
+![image](https://github.com/user-attachments/assets/d2f66fc6-3fed-4536-87a6-b8406ad7d830)
+
 </p>
 
 <h1>Azure VM Creation and VPN Testing Lab</h1>
