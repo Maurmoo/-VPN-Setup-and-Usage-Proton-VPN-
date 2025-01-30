@@ -22,14 +22,13 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 <h2>List of Prerequisites</h2>
 
 - **Step 1**: Create and Configure the Azure VM
-- **Step 2**: Record IP Address from Physical Machine
-- **Step 3**: Create and Configure the Virtual Machine in Azure
-- **Step 4**: Record IP Address from the Azure VM
-- **Step 5**: Sign Up for ProtonVPN
-- **Step 6**: Install ProtonVPN in the Virtual Machine
-- **Step 7**: Record IP Address from the VPN Connection
-- **Step 8**: Browse Websites and Test VPN Effects
-- **Step 9**: Document and Submit Findings
+- **Step 2**: Create and Configure the Virtual Machine in Azure
+- **Step 3**: Record IP Address from the Azure VM
+- **Step 4**: Sign Up for ProtonVPN
+- **Step 5**: Install ProtonVPN in the Virtual Machine
+- **Step 6**: Record IP Address from the VPN Connection
+- **Step 7**: Browse Websites and Test VPN Effects
+- **Step 8**: Document and Submit Findings
 
 <h2>Installation Steps</h2>
 
@@ -56,22 +55,7 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 
 <p>
   
-## Step 2: Record IP Address from Physical Machine
-  
-![image](https://github.com/user-attachments/assets/yourimage2.png)
-
-</p>
-<p>
-  
-- Opened the browser on the physical machine and visited [What is My IP Address](https://whatismyipaddress.com/).
-- Recorded the displayed IP address in a text file.
-
-</p>
-<br />
-
-<p>
-  
-## Step 3: Create and Configure the Virtual Machine in Azure
+## Step 2: Create and Configure the Virtual Machine in Azure
   
 ![image](https://github.com/user-attachments/assets/yourimage3.png)
 
@@ -84,7 +68,7 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 </p>
 <br />
 
-## Step 4: Record IP Address from the Azure VM
+## Step 3: Record IP Address from the Azure VM
 
 <p>
   
@@ -95,7 +79,7 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 </p>
 <br />
 
-## Step 5: Sign Up for ProtonVPN
+## Step 4: Sign Up for ProtonVPN
 
 <p>
   
@@ -110,7 +94,7 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 </p>
 <br />
 
-## Step 6: Install ProtonVPN in the Virtual Machine
+## Step 5: Install ProtonVPN in the Virtual Machine
 
 <p>
   
@@ -125,7 +109,7 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 </p>
 <br />
 
-## Step 7: Record IP Address from the VPN Connection
+## Step 6: Record IP Address from the VPN Connection
 
 <p>
   
@@ -140,7 +124,7 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 </p>
 <br />
 
-## Step 8: Browse Websites and Test VPN Effects
+## Step 7: Browse Websites and Test VPN Effects
 
 <p>
   
@@ -158,7 +142,7 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 </p>
 <br />
 
-## Step 9: Document and Submit Findings
+## Step 8: Document and Submit Findings
 
 <p>
   
