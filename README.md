@@ -77,8 +77,11 @@ This tutorial walks you through creating a virtual machine (VM) in Azure, connec
 </p>
 <p>
   
-- Signed up for the free version of ProtonVPN at [ProtonVPN Sign-Up](https://account.protonvpn.com/signup?plan=free&language=en).
-- Created a ProtonVPN account and confirmed the email address.
+- Navigate to ProtonVPN Sign-Up and sign up for a free account.
+   - [ProtonVPN Sign-Up](https://account.protonvpn.com/signup?plan=free&language=en).
+
+- Follow the instructions to confirm your email address and activate your ProtonVPN account. 
+
 
 </p>
 <br />
